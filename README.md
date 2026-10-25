@@ -213,4 +213,4 @@ Championship Manager is offered as a full free version. All features and updates
 Don't miss out on managing your own soccer team! Download Championship Manager today and take the first step towards sporting glory!
 
 ---
-**Last updated:** 2026-10-24 22:11:20 UTC
+**Last updated:** 2026-10-25 00:43:43 UTC
